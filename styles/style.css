@@ -120,18 +120,7 @@ section{
     
 }
 
-.comm {
-    
-}
 
-.comm1 {
-    
-    
-}
-
-.rtyu {
-   
-}
 
 .r {
     width: 26.4%;
@@ -359,9 +348,6 @@ aside {
     color: gray;
 }
  
-.s {
-  
-} 
  
 @media only screen and (max-width: 1002px)  {
      main {
@@ -377,12 +363,12 @@ aside {
     
     
     .video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
     
     
     aside {
